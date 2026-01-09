@@ -1,4 +1,12 @@
 # TA-Inteligencia-Artificial-2025-2
+Tarea académica del curso de Inteligencia Artificial de la Facultad de Ciencias e Ingeniería de la Pontificia Universidad Católica del Perú
+Proyecto de desarrollo del modelo de Machine Learning para la predicción del precio del limón en base a niveles de producción, desastres naturales y las condiciones climáticas asociadas de la región de Piura, Perú
+Trabajo culminado con mejoras progresivas en base al estudio de errores y a la mejora de enfoque de solución
+
+Academic project developed during the Artificial Inteligence Course of the Faculty of Science and Engenieering of the Pontificia Universidad Católica del Perú
+This project develops a Machine Learning model for the prediction of lime prices based on the level of production, natural disasters and climate conditions asociated to the region of Piura, Perú
+Finished project with progressive improvements based on the study of the errors of the model and focusing the perspective of the solution
+
 ## License
 
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
